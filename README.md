@@ -1,6 +1,6 @@
 # Instagram Clone :camera: 
 
-Neste projeto foi criado dois diretórios, um para ser executado como servidor, respondendo as requisições APIrestfull, fazendo a comunicação com banco de dados e guardar as imagens de uploads. Outro para funcionar como cliente(aplicação), tendo a funcionalidade semelhante a do instragram, permitindo o uploads de imagens para ser postadas juntamente com títulos, permitido comentários e a exclusão do mesmo. 
+Neste projeto foi criado um diretório para executar como servidor e outro para funcionar como cliente (aplicação). O primeiro responde as requisições APIrestfull, fazendo a comunicação com banco de dados e guardando as imagens de uploads e o outro tem a função semelhante ao instragram, permitindo o uploads de imagens para publicar juntamente com títulos, permitindo comentários e a exclusão do mesmo.
 
 ### Este projeto foi desenvolvido utilizando:
 
